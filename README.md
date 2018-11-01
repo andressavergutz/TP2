@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Controle de Congestionamento
 # Trabalho Prático 2 (TP2) - INFO7015 NR2-CCSC/UFPR 
 
@@ -63,16 +62,5 @@ Para executar os testes deste respositório você precisará instalar o Mininet 
 ### Instalando nosso repositório
 
 
-Obs.: A única restrição é que os resultados são apenas para a topologia Jellyfish. O Fat-tree não conseguimos implementar.
-
 
 Divirta-se! (:
-
-
-
-
-
-=======
-# TP2-Redes
-TP2 sobre controle de congestionamento em redes
->>>>>>> 33d48da72092684ca5d5d8e19a48816c5c238f21
