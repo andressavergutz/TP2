@@ -1,0 +1,527 @@
+Resultados com window_size = 13 
+
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.09 Mbits/s (61.2% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 128 ms
+Power: 24.12
+Uploading data to server... done.
+
+
+nRUN 1
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.73 Mbits/s (54.2% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 153 ms
+Power: 17.87
+Uploading data to server... done.
+
+
+nRUN 2
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.23 Mbits/s (64.1% utilization)
+95th percentile per-packet queueing delay: 49 ms
+95th percentile signal delay: 128 ms
+Power: 25.24
+Uploading data to server... done.
+
+
+nRUN 3
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.71 Mbits/s (53.7% utilization)
+95th percentile per-packet queueing delay: 50 ms
+95th percentile signal delay: 151 ms
+Power: 17.91
+Uploading data to server... done.
+
+
+nRUN 4
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.28 Mbits/s (65.0% utilization)
+95th percentile per-packet queueing delay: 50 ms
+95th percentile signal delay: 118 ms
+Power: 27.77
+Uploading data to server... done.
+
+
+nRUN 5
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.13 Mbits/s (42.2% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 203 ms
+Power: 10.47
+Uploading data to server... done.
+
+
+nRUN 6
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.27 Mbits/s (45.1% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 211 ms
+Power: 10.78
+Uploading data to server... done.
+
+
+nRUN 7
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.70 Mbits/s (53.6% utilization)
+95th percentile per-packet queueing delay: 50 ms
+95th percentile signal delay: 151 ms
+Power: 17.88
+Uploading data to server... done.
+
+
+nRUN 8
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.44 Mbits/s (48.3% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 145 ms
+Power: 16.81
+Uploading data to server... done.
+
+
+nRUN 9
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.61 Mbits/s (51.8% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 139 ms
+Power: 18.77
+Uploading data to server... done.
+
+
+nRUN 10
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.58 Mbits/s (51.2% utilization)
+95th percentile per-packet queueing delay: 51 ms
+95th percentile signal delay: 152 ms
+Power: 16.98
+Uploading data to server... done.
+
+
+nRUN 11
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.10 Mbits/s (61.5% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 114 ms
+Power: 27.18
+Uploading data to server... done.
+
+
+nRUN 12
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.79 Mbits/s (55.4% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 194 ms
+Power: 14.39
+Uploading data to server... done.
+
+
+nRUN 13
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.94 Mbits/s (58.3% utilization)
+95th percentile per-packet queueing delay: 50 ms
+95th percentile signal delay: 174 ms
+Power: 16.90
+Uploading data to server... done.
+
+
+nRUN 14
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.01 Mbits/s (59.7% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 164 ms
+Power: 18.35
+Uploading data to server... done.
+
+
+nRUN 15
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.08 Mbits/s (61.0% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 119 ms
+Power: 25.86
+Uploading data to server... done.
+
+
+nRUN 16
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.08 Mbits/s (61.1% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 124 ms
+Power: 24.82
+Uploading data to server... done.
+
+
+nRUN 17
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.50 Mbits/s (49.6% utilization)
+95th percentile per-packet queueing delay: 51 ms
+95th percentile signal delay: 160 ms
+Power: 15.63
+Uploading data to server... done.
+
+
+nRUN 18
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.99 Mbits/s (59.3% utilization)
+95th percentile per-packet queueing delay: 51 ms
+95th percentile signal delay: 117 ms
+Power: 25.57
+Uploading data to server... done.
+
+
+nRUN 19
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.05 Mbits/s (60.5% utilization)
+95th percentile per-packet queueing delay: 54 ms
+95th percentile signal delay: 142 ms
+Power: 21.47
+Uploading data to server... done.
+
+
+nRUN 20
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.29 Mbits/s (65.2% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 128 ms
+Power: 25.68
+Uploading data to server... done.
+
+
+nRUN 21
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.12 Mbits/s (61.8% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 138 ms
+Power: 22.58
+Uploading data to server... done.
+
+
+nRUN 22
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.94 Mbits/s (58.3% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 132 ms
+Power: 22.27
+Uploading data to server... done.
+
+
+nRUN 23
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.22 Mbits/s (63.8% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 147 ms
+Power: 21.88
+Uploading data to server... done.
+
+
+nRUN 24
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.29 Mbits/s (65.2% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 150 ms
+Power: 21.90
+Uploading data to server... done.
+
+
+nRUN 25
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.23 Mbits/s (64.1% utilization)
+95th percentile per-packet queueing delay: 51 ms
+95th percentile signal delay: 116 ms
+Power: 27.85
+Uploading data to server... done.
+
+
+nRUN 26
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.30 Mbits/s (65.5% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 118 ms
+Power: 28.00
+Uploading data to server... done.
+
+
+nRUN 27
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.17 Mbits/s (63.0% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 136 ms
+Power: 23.34
+Uploading data to server... done.
+
+
+nRUN 28
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.34 Mbits/s (66.3% utilization)
+95th percentile per-packet queueing delay: 51 ms
+95th percentile signal delay: 113 ms
+Power: 29.55
+Uploading data to server... done.
+
+
+nRUN 29
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.35 Mbits/s (66.5% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 112 ms
+Power: 29.91
+Uploading data to server... done.
+
+
+nRUN 30
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.26 Mbits/s (64.7% utilization)
+95th percentile per-packet queueing delay: 51 ms
+95th percentile signal delay: 110 ms
+Power: 29.64
+Uploading data to server... done.
+
+
+nRUN 31
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.08 Mbits/s (61.1% utilization)
+95th percentile per-packet queueing delay: 51 ms
+95th percentile signal delay: 136 ms
+Power: 22.63
+Uploading data to server... done.
+
+
+nRUN 32
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 2.78 Mbits/s (55.1% utilization)
+95th percentile per-packet queueing delay: 54 ms
+95th percentile signal delay: 158 ms
+Power: 17.57
+Uploading data to server... done.
+
+
+nRUN 33
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Network is unreachable
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.45 Mbits/s (68.4% utilization)
+95th percentile per-packet queueing delay: 53 ms
+95th percentile signal delay: 112 ms
+Power: 30.77
+Uploading data to server... done.
+
+
+nRUN 34
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+terminate called after throwing an instance of 'unix_error'
+  what():  send: Invalid argument
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 3.40 Mbits/s (67.4% utilization)
+95th percentile per-packet queueing delay: 52 ms
+95th percentile signal delay: 110 ms
+Power: 30.87
+Uploading data to server... done.
+
+
+nRUN 35
+================================

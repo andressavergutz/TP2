@@ -1,0 +1,422 @@
+Resultados com window_size = 5 
+
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.85 Mbits/s (16.8% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 211 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.85 Mbits/s (17.0% utilization)
+95th percentile per-packet queueing delay: 36 ms
+95th percentile signal delay: 182 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.90 Mbits/s (17.8% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 156 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.59 Mbits/s (11.8% utilization)
+95th percentile per-packet queueing delay: 38 ms
+95th percentile signal delay: 608 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.86 Mbits/s (17.0% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 181 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.82 Mbits/s (16.2% utilization)
+95th percentile per-packet queueing delay: 36 ms
+95th percentile signal delay: 286 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.81 Mbits/s (16.0% utilization)
+95th percentile per-packet queueing delay: 35 ms
+95th percentile signal delay: 389 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.92 Mbits/s (18.3% utilization)
+95th percentile per-packet queueing delay: 32 ms
+95th percentile signal delay: 202 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.83 Mbits/s (16.5% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 269 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.89 Mbits/s (17.7% utilization)
+95th percentile per-packet queueing delay: 35 ms
+95th percentile signal delay: 188 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.85 Mbits/s (16.9% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 242 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.85 Mbits/s (17.0% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 304 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.92 Mbits/s (18.2% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 216 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.86 Mbits/s (17.0% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 210 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.91 Mbits/s (18.2% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 252 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.95 Mbits/s (18.8% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 211 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.91 Mbits/s (18.0% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 222 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.94 Mbits/s (18.7% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 192 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.93 Mbits/s (18.5% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 165 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.88 Mbits/s (17.4% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 259 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.83 Mbits/s (16.4% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 275 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.97 Mbits/s (19.2% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 145 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.91 Mbits/s (18.1% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 191 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.87 Mbits/s (17.2% utilization)
+95th percentile per-packet queueing delay: 35 ms
+95th percentile signal delay: 374 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.94 Mbits/s (18.7% utilization)
+95th percentile per-packet queueing delay: 35 ms
+95th percentile signal delay: 225 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 1.00 Mbits/s (19.8% utilization)
+95th percentile per-packet queueing delay: 32 ms
+95th percentile signal delay: 175 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.99 Mbits/s (19.7% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 155 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.85 Mbits/s (16.9% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 222 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.78 Mbits/s (15.5% utilization)
+95th percentile per-packet queueing delay: 31 ms
+95th percentile signal delay: 396 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.82 Mbits/s (16.3% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 293 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.87 Mbits/s (17.2% utilization)
+95th percentile per-packet queueing delay: 32 ms
+95th percentile signal delay: 232 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.92 Mbits/s (18.3% utilization)
+95th percentile per-packet queueing delay: 33 ms
+95th percentile signal delay: 227 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.88 Mbits/s (17.5% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 234 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.90 Mbits/s (17.8% utilization)
+95th percentile per-packet queueing delay: 34 ms
+95th percentile signal delay: 223 ms
+
+Uploading data to server... done.
+
+
+================================
+RECEIVER: Listening on :::9090
+SENDER: Sending to 100.64.0.1:9090
+
+Average capacity: 5.04 Mbits/s
+Average throughput: 0.93 Mbits/s (18.4% utilization)
+95th percentile per-packet queueing delay: 32 ms
+95th percentile signal delay: 218 ms
+
+Uploading data to server... done.
+
+
+================================
