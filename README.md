@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Controle de Congestionamento
 # Trabalho Prático 2 (TP2) - INFO7015 NR2-CCSC/UFPR 
 
@@ -41,7 +40,22 @@ Nesta atividade, implementamos o esquema AIMD (Additive Increase Multiplicative
 
 ![Resultados obtidos nos testes com o AIMD simples](results-tp2_AIMD.png)
 
+
+![Resultados obtidos nos testes com o AIMD + timeout_counter](results-tp2-AIMDcounter.png)
+
+
 ### Exercício D: Testes diferentes abordagens e trabalhe para maximizar a potência
+
+
+![Atraso *vs* Número de Repetições](delayXnRun-exer3.png)
+
+![Taxa de Transferência *vs* Número de Repetições](results-throughput-cwnd13-exer3.png)
+
+![Potência *vs* Número de Repetições](potenciaXnRun-exer3.png)
+
+
+![Resultados obtidos nos testes com o AIMD + RTT](results-tp2-exer3.png)
+
 
 ### Exercı́cio E: escolha um nome legal para o seu esquema!
 
@@ -63,16 +77,8 @@ Para executar os testes deste respositório você precisará instalar o Mininet 
 ### Instalando nosso repositório
 
 
-Obs.: A única restrição é que os resultados são apenas para a topologia Jellyfish. O Fat-tree não conseguimos implementar.
 
 
 Divirta-se! (:
 
 
-
-
-
-=======
-# TP2-Redes
-TP2 sobre controle de congestionamento em redes
->>>>>>> 33d48da72092684ca5d5d8e19a48816c5c238f21
