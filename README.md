@@ -77,8 +77,13 @@ Para executar os testes deste respositório você precisará instalar o Mininet 
 ### Instalando nosso repositório
 
 
+<<<<<<< HEAD
 
 
 Divirta-se! (:
 
 
+=======
+
+Divirta-se! (:
+>>>>>>> f30361e17736d5b95fa1ec641234ac9a7fb3febf
